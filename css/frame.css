@@ -380,6 +380,10 @@ hr {
   max-width: 400px;
 }
 
+.max-width-200 {
+  max-width: 200px;
+}
+
 .max-width-140 {
   max-width: 140px;
 }
