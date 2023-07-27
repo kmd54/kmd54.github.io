@@ -10,6 +10,14 @@
   width: 240px;
 }
 
+.banner {
+  background-color: #106470;
+}
+
+.max-width-200 {
+  max-width: 200px;
+}
+
 #dialog-1,
 #dialog-2,
 #dialog-3,
